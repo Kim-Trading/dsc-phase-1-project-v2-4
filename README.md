@@ -21,9 +21,9 @@ The csv file
 
 3 key metric points:
 
-![Key Metric 1]('P1 images/Tot Rev per genre.png')
-![Key Metric 2]('P1 images/Avg Ratings per genre.png')
-![Key Metric 3]('P1 images/Avg Budget per genre.png')
+![]('P1%20images/Tot%20Rev%20per%20genre.png')
+![]('P1%20images/Avg%20Ratings%20per%20genre.png')
+![]('P1%20images/Avg%20Budget%20per%20genre.png')
 
 
 ### Conclusion
